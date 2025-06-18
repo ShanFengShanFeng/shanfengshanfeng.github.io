@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Peng Jin's Academic Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "PhD candidate at Donghua University and visiting researcher at NUS & SMU, focusing on smart wearable systems and generative AI for fashion applications. "
 repository               : "ShanFengShanFeng/shanfengshanfeng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Peng Jin"
   avatar           : "images/1.png"
-  bio              : "Lorem ipsum College"
+  bio              : "DHU/ NUS/ SMU"
   location         : "Shanghai/ Singapore"
   employer         :
   pubmed           : 
