@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "PhD Candidate at Donghua University and Visiting Researcher at NUS & SMU"
+excerpt: "PhD Candidate at Donghua University and Visiting Researcher at NUS / SMU"
 author_profile: true
 redirect_from: 
   - /about/
@@ -33,10 +33,8 @@ You can reach me at 📧 **925212692@qq.com** or **nlxxnlgz1@gmail.com**.
 ---
 
 # 📝 Publications
-### Under Review
 - **Peng Jin**, et al. *Smart bodysuit integrating digital twin technology for real-time human motion monitoring and visualization*. **IEEE Sensors Journal**, 2025. (SCI)
 - **Peng Jin**, et al. *GenWardrobe: A Fully Generative System for Travel Fashion Wardrobe Construction*. **ACM MM**, 2025. (SCI)
-### Published
 - **Jin Peng**, et al. *Development and Evaluation of a Multi-Functional Welding Protective Clothing System*. **Journal of Industrial Textiles**, 2023, 53: 1–21. (SCI)
 - **Jin Peng**, et al. *Design and evaluation of multifunctional protective clothing for tunnel workers*. **International Journal of Occupational Safety and Ergonomics**, 2023, 29(2): 484–493. (SCI/SSCI)
 - **Peng Jin**, et al. *Design and research of automatic garment-pattern-generation system based on parameterized design*. **Sustainability**, 2023, 15:1268. (SCI/SSCI)
@@ -63,7 +61,7 @@ You can reach me at 📧 **925212692@qq.com** or **nlxxnlgz1@gmail.com**.
 ---
 
 # 🧑‍🎓 Educations
-- 🎓 *2024.12 – 2025.12*: Joint PhD Program, NUS & SMU, Singapore (Computer Science)
+- 🎓 *2024.12 – 2025.12*: Joint PhD Program, NUS / SMU, Singapore (Computer Science)
 - 🎓 *2021.09 – Present*: Ph.D. in Design, Donghua University, China
 - 🎓 *2018.09 – 2021.06*: M.Eng. in Fashion Design and Engineering, Jiangnan University, China
 - 🎓 *2013.09 – 2017.06*: B.Eng. in Fashion Design and Engineering, Jiangnan University, China
