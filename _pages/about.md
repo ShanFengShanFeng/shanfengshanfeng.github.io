@@ -20,31 +20,23 @@ redirect_from:
 I am a PhD candidate at **Donghua University**, and currently a visiting researcher at the **National University of Singapore (NUS)** and **Singapore Management University (SMU)** under a CSC-funded joint PhD program. My research interests include:
 
 - 👕 Smart Wearable Technology
-- 🌍 Generative AI for Fashion
+- 🌍 Generative AI for Fashion Application
 
 You can reach me at 📧 **925212692@qq.com** or **nlxxnlgz1@gmail.com**.
 
-As the first author, I have published over **ten SCI/SSCI-indexed papers**, and hold **one authorized Chinese patent** in the field of intelligent wearable systems.
-
-<a href='https://scholar.google.com/citations?user=YOUR_ID'>
+<a href='https://scholar.google.com/citations?user=YOUR_ID&user=lJydfDEAAAAJ'>
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>
 
----
 
-# 🔥 News
-- *2024.12 – 2025.12*: Visiting researcher at NUS & SMU under CSC joint PhD program.
-- *2023.11*: Received National Scholarship for Doctoral Students.
-- *2023.07*: Won the G-CROSS Creative Star Award.
 
 ---
 
 # 📝 Publications
-> I have authored over 10 peer-reviewed articles indexed by SCI/SSCI, and one national patent.
-### 📌 Under Review
+### Under Review
 - **Peng Jin**, et al. *Smart bodysuit integrating digital twin technology for real-time human motion monitoring and visualization*. **IEEE Sensors Journal**, 2025. (SCI)
 - **Peng Jin**, et al. *GenWardrobe: A Fully Generative System for Travel Fashion Wardrobe Construction*. **ACM MM**, 2025. (SCI)
-### ✅ Published
+### Published
 - **Jin Peng**, et al. *Development and Evaluation of a Multi-Functional Welding Protective Clothing System*. **Journal of Industrial Textiles**, 2023, 53: 1–21. (SCI)
 - **Jin Peng**, et al. *Design and evaluation of multifunctional protective clothing for tunnel workers*. **International Journal of Occupational Safety and Ergonomics**, 2023, 29(2): 484–493. (SCI/SSCI)
 - **Peng Jin**, et al. *Design and research of automatic garment-pattern-generation system based on parameterized design*. **Sustainability**, 2023, 15:1268. (SCI/SSCI)
@@ -79,6 +71,9 @@ As the first author, I have published over **ten SCI/SSCI-indexed papers**, and 
 ---
 
 # 💼 Projects & Internships
+
+### 🏛️ Individual Hosting Project
+- Fundamental Research Funds for the Central Universities and Graduate Student Innovation Fund of Donghua University. (Grant Number: CUSF-DH-D-2024021)
 
 ### 🏛️ Government-Funded Projects
 - NSFC Youth Science Fund (No. 61503154)
