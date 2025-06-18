@@ -39,12 +39,12 @@ You can reach me at 📧 **925212692@qq.com** or **nlxxnlgz1@gmail.com**.
 - **Jin Peng**, et al. *Design and evaluation of multifunctional protective clothing for tunnel workers*. **International Journal of Occupational Safety and Ergonomics**, 2023, 29(2): 484–493. (SCI/SSCI)
 - **Peng Jin**, et al. *Design and research of automatic garment-pattern-generation system based on parameterized design*. **Sustainability**, 2023, 15:1268. (SCI/SSCI)
 - **Zhebin Xue**, **Peng Jin** (Co-First Author), et al. *Design and evaluation of a novel interactive firefighter clothing with multiple functionalities*. **Textile Research Journal**, 2023, 93(1-2): 221–241. (SCI)
-- **Jin Peng**, et al. *Design of smart protective clothing for blind people*. **Journal of Textile Research**, 2021, 42(8):135–143. (EI)
-- **Jin Peng**, et al. *New intelligent mining clothing design with real-time gas monitoring function*. **Journal of Textile Research**, 2020, 41:143–149. (EI)
+- **Peng Jin**, et al. *Design of smart protective clothing for blind people*. **Journal of Textile Research**, 2021, 42(8):135–143. (EI)
+- **Peng Jin**, et al. *New intelligent mining clothing design with real-time gas monitoring function*. **Journal of Textile Research**, 2020, 41:143–149. (EI)
 - **Runtian Jiang**, **Peng Jin** (Corresponding Author), et al. *IP marketing strategy for clothing brands based on SIPS model*. **Journal of Textile Research**, 2022, 43(7):162–169, 177. (EI)
-- **Jin Peng**, et al. *Design and implementation of blockchain technology-based clothing traceability system*. **Journal of Silk**, 2021, 58(5):62–69. (CSCD)
-- **Jin Peng**, et al. *Development status and strategic analysis of mass customization in Chinese apparel industry*. **Shanghai Textile Science & Technology**, 2020, 48(6):1–4. (PKU Core)
-- **Jin Peng**, et al. *Application of thermo-regulated materials in clothing and performance testing evaluation*. **Knitting Industries**, 2020, 4:66–69. (PKU Core)
+- **Peng Jin**, et al. *Design and implementation of blockchain technology-based clothing traceability system*. **Journal of Silk**, 2021, 58(5):62–69. (CSCD)
+- **Peng Jin**, et al. *Development status and strategic analysis of mass customization in Chinese apparel industry*. **Shanghai Textile Science & Technology**, 2020, 48(6):1–4. (PKU Core)
+- **Peng Jin**, et al. *Application of thermo-regulated materials in clothing and performance testing evaluation*. **Knitting Industries**, 2020, 4:66–69. (PKU Core)
 
 
 ---
