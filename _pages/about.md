@@ -34,9 +34,9 @@ You can reach me at 📧 **925212692@qq.com** or **nlxxnlgz1@gmail.com**.
 
 # 📝 Publications
 - **Peng Jin**, et al. *Smart bodysuit integrating digital twin technology for real-time human motion monitoring and visualization*. **IEEE Sensors Journal**, 2025. (SCI)
-- **Peng Jin**, et al. *GenWardrobe: A Fully Generative System for Travel Fashion Wardrobe Construction*. **ACM MM**, 2025. (SCI)
-- **Jin Peng**, et al. *Development and Evaluation of a Multi-Functional Welding Protective Clothing System*. **Journal of Industrial Textiles**, 2023, 53: 1–21. (SCI)
-- **Jin Peng**, et al. *Design and evaluation of multifunctional protective clothing for tunnel workers*. **International Journal of Occupational Safety and Ergonomics**, 2023, 29(2): 484–493. (SCI/SSCI)
+- **Peng Jin**, et al. *GenWardrobe: A Fully Generative System for Travel Fashion Wardrobe Construction*. **ACM MM**, 2025. (CCF-A)
+- **Peng Jin**, et al. *Development and Evaluation of a Multi-Functional Welding Protective Clothing System*. **Journal of Industrial Textiles**, 2023, 53: 1–21. (SCI)
+- **Peng Jin**, et al. *Design and evaluation of multifunctional protective clothing for tunnel workers*. **International Journal of Occupational Safety and Ergonomics**, 2023, 29(2): 484–493. (SCI/SSCI)
 - **Peng Jin**, et al. *Design and research of automatic garment-pattern-generation system based on parameterized design*. **Sustainability**, 2023, 15:1268. (SCI/SSCI)
 - **Zhebin Xue**, **Peng Jin** (Co-First Author), et al. *Design and evaluation of a novel interactive firefighter clothing with multiple functionalities*. **Textile Research Journal**, 2023, 93(1-2): 221–241. (SCI)
 - **Peng Jin**, et al. *Design of smart protective clothing for blind people*. **Journal of Textile Research**, 2021, 42(8):135–143. (EI)
