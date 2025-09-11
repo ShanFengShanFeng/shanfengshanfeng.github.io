@@ -24,7 +24,7 @@ I am a PhD candidate at **Donghua University**, and currently a visiting researc
 
 You can reach me at 📧 **925212692@qq.com** or **nlxxnlgz1@gmail.com**.
 
-<a href='https://scholar.google.com/citations?user=YOUR_ID&user=lJydfDEAAAAJ'>
+<a href='https://scholar.google.com/citations?user=lJydfDEAAAAJ&hl'>
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>
 
@@ -33,7 +33,7 @@ You can reach me at 📧 **925212692@qq.com** or **nlxxnlgz1@gmail.com**.
 ---
 
 # 📝 Publications
-- **Peng Jin**, et al. *Smart bodysuit integrating digital twin technology for real-time human motion monitoring and visualization*. **IEEE Sensors Journal**, 2025. (SCI, under review)
+- **Peng Jin**, et al. *Smart bodysuit integrating digital twin technology for real-time human motion monitoring and visualization*. **IEEE Sensors Journal**, 2025. (SCI)
 - **Peng Jin**, et al. *GenWardrobe: A Fully Generative System for Travel Fashion Wardrobe Construction*. **ACM MM**, 2025. (CCF-A)
 - **Peng Jin**, et al. *Development and Evaluation of a Multi-Functional Welding Protective Clothing System*. **Journal of Industrial Textiles**, 2023, 53: 1–21. (SCI)
 - **Peng Jin**, et al. *Design and evaluation of multifunctional protective clothing for tunnel workers*. **International Journal of Occupational Safety and Ergonomics**, 2023, 29(2): 484–493. (SCI/SSCI)
