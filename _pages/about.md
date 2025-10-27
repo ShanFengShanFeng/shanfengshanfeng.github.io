@@ -33,7 +33,7 @@ You can reach me at 📧 **925212692@qq.com** or **nlxxnlgz1@gmail.com**.
 ---
 
 # 📝 Publications
-- **Peng Jin**, et al. *Smart bodysuit integrating digital twin technology for real-time human motion monitoring and visualization*. **IEEE Sensors Journal**, 2025,25(20):38693-38706.. (SCI)
+- **Peng Jin**, et al. *Smart bodysuit integrating digital twin technology for real-time human motion monitoring and visualization*. **IEEE Sensors Journal**, 2025,25(20):38693-38706. (SCI)
 - **Peng Jin**, et al. *GenWardrobe: A Fully Generative System for Travel Fashion Wardrobe Construction*. **ACM International Conference on Multimedia**, 2025, 13540–13542. (CCF-A)
 - **Peng Jin**, et al. *Development and Evaluation of a Multi-Functional Welding Protective Clothing System*. **Journal of Industrial Textiles**, 2023, 53: 1–21. (SCI)
 - **Peng Jin**, et al. *Design and evaluation of multifunctional protective clothing for tunnel workers*. **International Journal of Occupational Safety and Ergonomics**, 2023, 29(2): 484–493. (SCI/SSCI)
