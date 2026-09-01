@@ -107,3 +107,57 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.scholar-sync-note {
+    color: #5f6368;
+    font-size: .9em;
+    margin-bottom: 1.5rem;
+}
+
+.publication-list {
+    border-top: 1px solid #e8e8e8;
+}
+
+.publication-item {
+    border-bottom: 1px solid #e8e8e8;
+    padding: 1.1rem 0;
+
+    h3 {
+        font-size: 1.05em;
+        line-height: 1.45;
+        margin: 0 0 .35rem;
+    }
+
+    p {
+        margin: .2rem 0;
+    }
+}
+
+.publication-authors,
+.publication-venue {
+    color: #4f565e;
+    font-size: .9em;
+}
+
+.publication-meta {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: .82em;
+    gap: .75rem;
+    margin-top: .45rem !important;
+}
+
+.publication-year {
+    background: #edf3fa;
+    border-radius: 999px;
+    color: #24527a;
+    font-weight: 600;
+    padding: .12rem .55rem;
+}
+
+.publication-loading,
+.publication-error {
+    color: #5f6368;
+    padding: 1rem 0;
+}

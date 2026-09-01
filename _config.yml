@@ -7,9 +7,10 @@
 
 # Site Settings
 title                    : "Peng Jin's Academic Homepage"
-description              : "PhD candidate at Donghua University and visiting researcher at NUS and SMU, focusing on smart wearable systems and generative AI for fashion applications. "
+description              : "Currently at Ningbo University, focusing on smart wearable systems and generative AI for fashion applications."
+url                      : "https://shanfengshanfeng.github.io"
 repository               : "ShanFengShanFeng/shanfengshanfeng.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,11 +24,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Peng Jin"
   avatar           : "images/1.jpg"
-  bio              : "DHU/ NUS/ SMU"
-  location         : "Shanghai/ Singapore"
-  employer         :
+  bio              : "Ningbo University"
+  location         : "Ningbo, China"
+  employer         : "Ningbo University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=lJydfDEAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=lJydfDEAAAAJ&hl=en"
   email            : "nlxxnlgz1@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

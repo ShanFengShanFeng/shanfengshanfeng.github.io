@@ -1,55 +1,71 @@
-name: Update Google Scholar Stats
+name: Update Google Scholar publications
 
 on:
   schedule:
-    # 每天 UTC 08:00（北京时间 16:00）自动运行
+    # Daily at 16:00 China Standard Time.
     - cron: "0 8 * * *"
-  workflow_dispatch:  # 允许手动触发
+  workflow_dispatch:
   push:
-    branches: [ "main" ]  # 每次推送 main 分支时触发
+    branches: [main]
+    paths:
+      - ".github/workflows/update_google_scholar_stats.yml"
+      - "google_scholar_crawler/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: google-scholar-publications
+  cancel-in-progress: false
 
 jobs:
-  update-google-scholar-stats:
+  update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.9
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.9"
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: google_scholar_crawler/requirements.txt
 
       - name: Install dependencies
         working-directory: google_scholar_crawler
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+        run: python -m pip install -r requirements.txt
 
       - name: Run Google Scholar crawler
         env:
-          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+          GOOGLE_SCHOLAR_ID: ${{ vars.GOOGLE_SCHOLAR_ID || 'lJydfDEAAAAJ' }}
         working-directory: google_scholar_crawler
-        run: python main.py
+        shell: bash
+        run: |
+          for attempt in 1 2 3; do
+            if python main.py; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 3 ]; then
+              sleep $((attempt * 20))
+            fi
+          done
+          exit 1
 
       - name: Push results to google-scholar-stats branch
+        shell: bash
         run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "GitHub Actions Bot"
+          output_dir="$RUNNER_TEMP/google-scholar-output"
+          mkdir -p "$output_dir"
+          cp google_scholar_crawler/results/*.json "$output_dir/"
 
-          # 切换到（或创建）google-scholar-stats 分支
-          git fetch origin google-scholar-stats 2>/dev/null \
-            && git checkout google-scholar-stats \
-            || git checkout --orphan google-scholar-stats
-
-          # 清除该分支上所有原有文件
-          git rm -rf . --quiet 2>/dev/null || true
-
-          # 将爬取结果复制到根目录
-          cp google_scholar_crawler/results/gs_data.json .
-          cp google_scholar_crawler/results/gs_data_shieldsio.json .
-
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git checkout --orphan scholar-publications-output
+          git rm -rf .
+          cp "$output_dir"/*.json .
           git add gs_data.json gs_data_shieldsio.json
-          git commit -m "Auto update: Google Scholar stats $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push origin google-scholar-stats --force
+          git commit -m "Update Google Scholar publications"
+          git push origin HEAD:google-scholar-stats --force
