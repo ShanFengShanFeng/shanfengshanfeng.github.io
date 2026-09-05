@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "updated_at": "2026-09-05T11:42:57.609561+00:00",
+  "author_id": "lJydfDEAAAAJ",
+  "name": "Peng Jin",
+  "affiliation": "Donghua University, NUS, SMU",
+  "citedby": 88,
+  "citedby5y": 88,
+  "hindex": 4,
+  "hindex5y": 4,
+  "i10index": 2,
+  "i10index5y": 2,
+  "publications": [
+    {
+      "id": "lJydfDEAAAAJ:eQOLeE2rZwMC",
+      "title": "GenWardrobe: A fully generative system for travel fashion wardrobe construction",
+      "authors": "",
+      "venue": "Proceedings of the 33rd ACM International Conference on Multimedia, 13540-13542, 2025",
+      "year": "2025",
+      "citations": 2,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AeQOLeE2rZwMC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:WF5omc3nYNoC",
+      "title": "Smart bodysuit integrating digital twin technology for real-time human motion monitoring and visualization",
+      "authors": "",
+      "venue": "IEEE Sensors Journal, 2025",
+      "year": "2025",
+      "citations": 3,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AWF5omc3nYNoC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:9yKSN-GCB0IC",
+      "title": "Research on optimal design of pleated cheongsam based on Kano–HOQ–Pugh model",
+      "authors": "",
+      "venue": "AUTEX Research Journal 24 (1), 20230025, 2024",
+      "year": "2024",
+      "citations": 4,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3A9yKSN-GCB0IC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:u5HHmVD_uO8C",
+      "title": "Design and evaluation of a novel interactive firefighter clothing with multiple functionalities",
+      "authors": "",
+      "venue": "Textile research journal 93 (1-2), 221-241, 2023",
+      "year": "2023",
+      "citations": 12,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3Au5HHmVD_uO8C"
+    },
+    {
+      "id": "lJydfDEAAAAJ:d1gkVwhDpl0C",
+      "title": "Design and evaluation of multifunctional protective clothing for tunnel workers",
+      "authors": "",
+      "venue": "International Journal of Occupational Safety and Ergonomics 29 (2), 484-493, 2023",
+      "year": "2023",
+      "citations": 1,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3Ad1gkVwhDpl0C"
+    },
+    {
+      "id": "lJydfDEAAAAJ:2osOgNQ5qMEC",
+      "title": "Design and research of automatic garment-pattern-generation system based on parameterized design",
+      "authors": "",
+      "venue": "Sustainability 15 (2), 1268, 2023",
+      "year": "2023",
+      "citations": 37,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3A2osOgNQ5qMEC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:LkGwnXOMwfcC",
+      "title": "Design and research of automatic garment-pattern-generation system based on parameterized design, Sustainability, 15 (2), 2023, 1268",
+      "authors": "",
+      "venue": "",
+      "year": "2023",
+      "citations": 2,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3ALkGwnXOMwfcC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:u-x6o8ySG0sC",
+      "title": "Development and evaluation of a multi-functional welding protective clothing system",
+      "authors": "",
+      "venue": "Journal of Industrial Textiles 53, 15280837231201380, 2023",
+      "year": "2023",
+      "citations": 5,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3Au-x6o8ySG0sC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:W7OEmFMy1HYC",
+      "title": "Design and research of life-saving cotton-blended miners’ clothing",
+      "authors": "",
+      "venue": "International journal of occupational safety and ergonomics 28 (3), 1430-1438, 2022",
+      "year": "2022",
+      "citations": 5,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AW7OEmFMy1HYC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:ufrVoPGSRksC",
+      "title": "Design and implementation of clothing traceability system based on blockchain technology",
+      "authors": "",
+      "venue": "Silk 58, 88-92, 2021",
+      "year": "2021",
+      "citations": 2,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AufrVoPGSRksC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:roLk4NBRz8UC",
+      "title": "Design and implementation of knitwear customization system based on modular process.",
+      "authors": "",
+      "venue": "Wool Textile Journal 49 (6), 63, 2021",
+      "year": "2021",
+      "citations": 3,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AroLk4NBRz8UC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:Y0pCki6q_DkC",
+      "title": "Design of smart protective clothing for blind people",
+      "authors": "",
+      "venue": "Journal of Textile Research 42 (8), 135-143, 2021",
+      "year": "2021",
+      "citations": 4,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AY0pCki6q_DkC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:zYLM7Y9cAGgC",
+      "title": "基于区块链技术的服装可追溯系统设计与实现",
+      "authors": "",
+      "venue": "丝绸 58 (5), 62-69, 2021",
+      "year": "2021",
+      "citations": 3,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AzYLM7Y9cAGgC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:Se3iqnhoufwC",
+      "title": "疫情下服装品牌的零售发展创新策略分析",
+      "authors": "",
+      "venue": "纺织导报, 2021",
+      "year": "2021",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3ASe3iqnhoufwC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:YsMSGLbcyi4C",
+      "title": "Development status and strategic analysis of mass customization in Chinese apparel industry",
+      "authors": "",
+      "venue": "Shanghai Textile Science and Technology 48 (6), 1-4, 2020",
+      "year": "2020",
+      "citations": 2,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AYsMSGLbcyi4C"
+    },
+    {
+      "id": "lJydfDEAAAAJ:_FxGoFyzp5QC",
+      "title": "Influence of the COVID-19 epidemic on clothing retail industry and development trend forecast.",
+      "authors": "",
+      "venue": "Wool Textile Journal 48 (12), 98, 2020",
+      "year": "2020",
+      "citations": 3,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3A_FxGoFyzp5QC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:Tyk-4Ss8FVUC",
+      "title": "具有实时瓦斯监测功能的新型智能矿工服设计",
+      "authors": "",
+      "venue": "纺织学报, 2020",
+      "year": "2020",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3ATyk-4Ss8FVUC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:UeHWp8X0CEIC",
+      "title": "可调温材料在服装中的应用及性能测试评价",
+      "authors": "",
+      "venue": "针织工业, 2020",
+      "year": "2020",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AUeHWp8X0CEIC"
+    },
+    {
+      "id": "lJydfDEAAAAJ:IjCSPb-OGe4C",
+      "title": "我国服装行业大规模定制的发展现状与策略分析",
+      "authors": "",
+      "venue": "上海纺织科技 48 (6), 1-4, 2020",
+      "year": "2020",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AIjCSPb-OGe4C"
+    }
+  ]
+}
