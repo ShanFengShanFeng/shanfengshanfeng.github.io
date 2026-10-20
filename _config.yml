@@ -29,6 +29,7 @@ author:
   employer         : "Ningbo University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lJydfDEAAAAJ&hl=en"
+  cnki             : "https://au.cnki.net/author/workbench/personalHomePage/000077413616"
   email            : "nlxxnlgz1@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -68,6 +69,8 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - cnki_crawler
+  - tests
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

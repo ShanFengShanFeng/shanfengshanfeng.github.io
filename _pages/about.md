@@ -13,7 +13,6 @@ redirect_from:
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -24,9 +23,16 @@ I received both my bachelor’s and master’s degrees in Fashion Design and Eng
 
 You can reach me at 📧 **925212692@qq.com** or **nlxxnlgz1@gmail.com**.
 
-<a href='{{ site.author.googlescholar }}'>
-  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
+<div class="citation-badges" aria-label="Citations by database">
+  <a class="citation-badge" href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer">
+    <span class="citation-badge-label">Google Scholar citations</span>
+    <span class="citation-badge-value" id="total_cit">Unavailable</span>
+  </a>
+  <a class="citation-badge citation-badge--cnki" href="{{ site.author.cnki }}" target="_blank" rel="noopener noreferrer">
+    <span class="citation-badge-label">CNKI citations</span>
+    <span class="citation-badge-value" id="cnki_total_cit">Unavailable</span>
+  </a>
+</div>
 
 
 
@@ -34,23 +40,39 @@ You can reach me at 📧 **925212692@qq.com** or **nlxxnlgz1@gmail.com**.
 
 # 📝 Publications
 <p class="scholar-sync-note">
-  Automatically synchronized daily from
-  <a href="{{ site.author.googlescholar }}">Google Scholar</a>.
-  <span id="scholar-updated" aria-live="polite"></span>
+  Publications from <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+  and <a href="{{ site.author.cnki }}">CNKI</a> are checked daily.
+  Citation counts are shown separately because database coverage overlaps.
 </p>
+<ul class="publication-sync-status" aria-label="Last successful synchronization" aria-live="polite">
+  <li>Google Scholar: <span id="scholar-updated">Loading…</span></li>
+  <li>CNKI: <span id="cnki-updated">Loading…</span></li>
+</ul>
+
+<div class="publication-controls">
+  <label for="publication-source-filter">Show publications from</label>
+  <select id="publication-source-filter" aria-controls="scholar-publications" disabled>
+    <option value="all">All sources</option>
+    <option value="scholar">Google Scholar</option>
+    <option value="cnki">CNKI</option>
+  </select>
+</div>
 
 <div
   id="scholar-publications"
   class="publication-list"
   data-source="{{ gsDataBaseUrl }}google-scholar-stats/gs_data.json"
   data-profile="{{ site.author.googlescholar }}"
+  data-cnki-source="{{ gsDataBaseUrl }}google-scholar-stats/cnki_data.json"
+  data-cnki-fallback="{{ '/assets/data/cnki_data.json' | relative_url }}"
+  data-cnki-profile="{{ site.author.cnki }}"
   aria-live="polite"
 >
-  <p class="publication-loading">Loading publications from Google Scholar…</p>
+  <p class="publication-loading">Loading publications from Google Scholar and CNKI…</p>
 </div>
 
 <noscript>
-  <style>#manual-publications[hidden] { display: block; }</style>
+  <style>#manual-publications[hidden] { display: block; } .publication-controls, .publication-sync-status { display: none; }</style>
   <p><em>JavaScript is disabled, so the automatically synchronized list cannot be loaded. A recent selection is shown below.</em></p>
 </noscript>
 
@@ -107,3 +129,4 @@ You can reach me at 📧 **925212692@qq.com** or **nlxxnlgz1@gmail.com**.
 - 📧 Email: 925212692@qq.com / nlxxnlgz1@gmail.com  
 - 🌐 GitHub: [ShanFengShanFeng](https://github.com/ShanFengShanFeng)  
 - 🧠 Google Scholar: [View Profile]({{ site.author.googlescholar }})
+- 📚 CNKI: [View Profile]({{ site.author.cnki }})

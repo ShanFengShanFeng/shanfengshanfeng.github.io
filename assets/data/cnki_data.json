@@ -1,0 +1,182 @@
+{
+  "schema_version": 2,
+  "source": "cnki",
+  "author_id": "000077413616",
+  "profile_url": "https://au.cnki.net/author/workbench/personalHomePage/000077413616",
+  "updated_at": "2026-10-20T08:50:01.172564+00:00",
+  "citedby": 227,
+  "hindex": 9,
+  "gindex": 12,
+  "profile_publication_count": 12,
+  "citation_scope": "CNKI author-profile total, including dissertations; not combined with Google Scholar.",
+  "publications": [
+    {
+      "id": "CJFD:JLXY202303003",
+      "title": "基于Python的女式衬衫版样自动化生成技术",
+      "authors": "刘乐, 任祥放, 金鹏, 沈雷, 王军",
+      "venue": "服装学报, (03): 17-26+69",
+      "year": "2023",
+      "citations": 9,
+      "doi": "",
+      "cnki_url": "https://kns.cnki.net/kcms2/article/abstract?v=VbOCiUYxpOCcITbb0ruE3J3dLwq8zcxS4pJz7p1NZAJ6CTRZ6ZhwCokTKhHblJm5sWI11OpLb4n5V2lQSF7Zf3oztm3JL-fFuzvjsJBa0dn4RaaivpkgJS3VF3f-5SfnShFGIGERgTsNHTtPnUkso3gyMw-MYRDsxc7JyAyaYxyFyxk5zbl_-Fd1TSBQcwa9KnW5jAP9iSC_ND24zag_Jg==&uniplatform=NZKPT&language=CHS",
+      "publication_type": "期刊"
+    },
+    {
+      "id": "CJFD:FZXB202207024",
+      "title": "基于SIPS模型的服装品牌IP营销策略",
+      "authors": "江润恬, 金鹏, 吴艳, 陈恩",
+      "venue": "纺织学报, (07): 168-175+183",
+      "year": "2022",
+      "citations": 64,
+      "doi": "10.13475/j.fzxb.20210705809",
+      "cnki_url": "https://kns.cnki.net/kcms2/article/abstract?v=VbOCiUYxpODru_u_n9cqzUAOUsdy-zzTBIKJ8jVPpG47IOfz2LRGrei0huioa9it4beornYFNP8rGoD-IOSn-rBv1tJymObo7R1LVWGP7jTxgGPs0yoB7BGtGsZOp2GE14cIdJbgKXeaFUVVNjfgo2kS3TBXe40yKaafmuYFukNii_iASpthfvgUy8nwUISLOmqNSkBkkD5Tvt9rylTusQ==&uniplatform=NZKPT&language=CHS",
+      "publication_type": "期刊"
+    },
+    {
+      "id": "CJFD:TJFJ202203007",
+      "title": "基于参照点理论的服装盲盒购买决策研究",
+      "authors": "江润恬, 金鹏, 吴艳",
+      "venue": "天津纺织科技, (03): 27-32",
+      "year": "2022",
+      "citations": 2,
+      "doi": "10.13518/j.cnki.tjtst.2022.03.015",
+      "cnki_url": "https://kns.cnki.net/kcms2/article/abstract?v=VbOCiUYxpODvBoZPcEvawnF0qxETbK1v8aReJbvavDQ2ArARNve0RXf69I_yoMqbvApvJtzvQGpeQeZE6vHjxSGGIX8gHd9B8fEVnTk0vXeHFj-yh-bmhcnJmYgLcWtXJHuA0XpB3ErjCp-ZIutTsRbq-OMRfOSgW3rLj5_b_WhudVW36jNXQ6cy1ElYnswZ-VCyGp04jyhvaXW0QSBj3A==&uniplatform=NZKPT&language=CHS",
+      "publication_type": "期刊"
+    },
+    {
+      "id": "CJFD:FZXB202108020",
+      "title": "具有安全防护功能的智能盲人服设计",
+      "authors": "金鹏, 薛哲彬, 江润恬, 刘丹宇, 张弛",
+      "venue": "纺织学报, (08): 140-148+153",
+      "year": "2021",
+      "citations": 18,
+      "doi": "10.13475/j.fzxb.20201104410",
+      "cnki_url": "https://kns.cnki.net/kcms2/article/abstract?v=VbOCiUYxpOAOYnDJBMfIMNx3B7DniKg9rnvhBwELaTQWbRQka6-SRK3bLldUEz6L82cUOvb2fxof-kM3TFLRFc11tmmrczOEVwKg0u6j1WOuWPB73w5K_9J2ZM_r6NkGOTLPF2wF1uFduIbX1iWpfOUlzSBpfM6o0DxxtxaWP-wZ5Ra10jZfzCAuQjPaaw04_dhaSpZDhzPgp8m5yvpIlw==&uniplatform=NZKPT&language=CHS",
+      "publication_type": "期刊"
+    },
+    {
+      "id": "CJFD:SICO202105011",
+      "title": "基于区块链技术的服装可追溯系统设计与实现",
+      "authors": "金鹏, 薛哲彬, 江润恬, 张弛, 许晗",
+      "venue": "丝绸, (05): 68-75",
+      "year": "2021",
+      "citations": 18,
+      "doi": "",
+      "cnki_url": "https://kns.cnki.net/kcms2/article/abstract?v=VbOCiUYxpOBWs9QRhbvRrM3Xr9bT-nUlqEbEnu4zvk5S567dXLePPbZJAdxUPTMNbFsJr6fD47UBD633eTzqwZQQuhX_ExYY8Q-OBW4yERj__Xm98XgOojt7DaHXgwtTgHtKbZnAOQavuEZUm6y3DpWIPOKCHU76uTeHHFjRTFbkbsXzcoMoazt-Xk37UbjugmklDxOvOpG2zgVv2Iz48A==&uniplatform=NZKPT&language=CHS",
+      "publication_type": "期刊"
+    },
+    {
+      "id": "CMFD:1021757060.nh",
+      "title": "基于嵌入式系统的智能服装设计研究",
+      "authors": "金鹏",
+      "venue": "江南大学 · 硕士学位论文",
+      "year": "2021",
+      "citations": 17,
+      "doi": "10.27169/d.cnki.gwqgu.2021.001026",
+      "cnki_url": "https://kns.cnki.net/kcms2/article/abstract?v=VbOCiUYxpOAcZcHyd5Nxre4B7NJI9n02l-hq5Xay3HKN1R7oa4j396JkgfvciuhCSX1C5ZSYaZvpfVRnpJCYpTiBu6oNdujwiziaOPXqgOif1-grBzzB0C61CDAmMmR2YOkw37hvmdvUEzUoHmQjzdzZP4UsYJvG1XZbz2PQlaUDvTr1NPfzqcKPNVlSYER_HK7lfhhoEDxkW8KIuw6ZzQ==&uniplatform=NZKPT&language=CHS",
+      "publication_type": "硕士"
+    },
+    {
+      "id": "CJFD:MFKJ202106015",
+      "title": "基于流程模块化的针织衫定制系统设计与实现",
+      "authors": "戈垚, 唐颖, 金鹏, 沈雷",
+      "venue": "毛纺科技, (06): 73-79",
+      "year": "2021",
+      "citations": 11,
+      "doi": "10.19333/j.mfkj.20201001007",
+      "cnki_url": "https://kns.cnki.net/kcms2/article/abstract?v=VbOCiUYxpOBVT7lhIQbGHjv82LUA-XmE1TlYc53jWtZOh1gSxuY3F_Q9k8hwzaR_q6z0m3QD3xxrFsFGB2sIbBvrurxrUszqPORArQF-xW5cqARsZ6pb435DZYn05bzAmcJiwfwTytBAXNXWTPE6Apu9V3CWSGjxgilScYaQ9gEfjU2iyEz1S24cZvyxW088uLSEkWfO8NsM3snmQ8XkXQ==&uniplatform=NZKPT&language=CHS",
+      "publication_type": "期刊"
+    },
+    {
+      "id": "CJFD:FZDB202106026",
+      "title": "疫情下服装品牌的零售发展创新策略分析",
+      "authors": "江润恬, 吴艳, 金鹏",
+      "venue": "纺织导报, (06): 104-108",
+      "year": "2021",
+      "citations": 6,
+      "doi": "10.16481/j.cnki.ctl.2021.06.018",
+      "cnki_url": "https://kns.cnki.net/kcms2/article/abstract?v=VbOCiUYxpOBRYOxz7ClS4NDw7HNoOTQEX1Kyk_N4RvUKU4BS_rkcZzizGR5Wn6syWK1uH1uvTrMHnAL2qYsduWEKbRjm727HiiopHLgGIKHTO4JmfVlZl3EOo-4oYrB7tbFybyPLFBJHfZN15KwSkqi-VKBwoLBd63oX4vPICVqL2wBBSAVfei_OZh9ZrX_p6niKGz0mhlDynY1KctZsZA==&uniplatform=NZKPT&language=CHS",
+      "publication_type": "期刊"
+    },
+    {
+      "id": "CJFD:FZXB202011025",
+      "title": "具有实时瓦斯监测功能的新型智能矿工服设计",
+      "authors": "金鹏, 薛哲彬, 戈垚",
+      "venue": "纺织学报, (11): 148-154",
+      "year": "2020",
+      "citations": 10,
+      "doi": "10.13475/j.fzxb.20200307607",
+      "cnki_url": "https://kns.cnki.net/kcms2/article/abstract?v=VbOCiUYxpODXY7dOc5mN3dAgBklkh0JZCdpE7JduPti1i8mHTGAabzBq5B207FvE4i4h7JJ6CoHyL20d8ucuc4zLyOWFGT98o_uboMNh-CHactC2SbtlHonlBDK1Du45mM7r83EXnyHbrVMF5aCMQwHtFzo-aABPIv6L0tMDXk_TYrKm50ZilghY3q6cv2R4PuAwdQnj7Dy0cHx222Mllw==&uniplatform=NZKPT&language=CHS",
+      "publication_type": "期刊"
+    },
+    {
+      "id": "CJFD:ZNGU202004018",
+      "title": "可调温材料在服装中的应用及性能测试评价",
+      "authors": "金鹏, 薛哲彬, 沈雷, 戈垚",
+      "venue": "针织工业, (04): 69-72",
+      "year": "2020",
+      "citations": 17,
+      "doi": "",
+      "cnki_url": "https://kns.cnki.net/kcms2/article/abstract?v=VbOCiUYxpOD3nh2OF7mPaG8mOHNj26gecXzOSoBEGT-uY0puSH3PoZ_gawvONQ17WCwuJOH0KW29HH8Efan_wSv6BmVpDkMxvxmGAIjijcEFnNPs9fX9KMZmtSL4LSRq7ca0Ys157npYlUMJw32oUpfAKOv5zT-twnjwnJcsxjv1gU8WAXyuUInnY1fiSkn-a1AlqBpaVqPA9z9ualtSCQ==&uniplatform=NZKPT&language=CHS",
+      "publication_type": "期刊"
+    },
+    {
+      "id": "CJFD:SFXK202006001",
+      "title": "我国服装行业大规模定制的发展现状与策略分析",
+      "authors": "金鹏, 沈雷, 薛哲彬, 戈垚",
+      "venue": "上海纺织科技, (06): 5-8",
+      "year": "2020",
+      "citations": 31,
+      "doi": "10.16549/j.cnki.issn.1001-2044.2020.06.001",
+      "cnki_url": "https://kns.cnki.net/kcms2/article/abstract?v=VbOCiUYxpOBUQL8eAnnTUSdMh8QsMfYj1oHmtCmfSDnbVXMzcvftcVZg1vm8tIsVXLws3FTBBLuswCuXCAAHqEMYn6nMndB-ugbb2oFaYUT7STDmUJHSeCArk1uIXXkjluaiuht11_ur750esNIlRS2ghnfyR_sWlii8cvIA6WXMRuhQyRRbv7Slzz2cuy5fJqyZil8YU-dAPdnGX4hOBw==&uniplatform=NZKPT&language=CHS",
+      "publication_type": "期刊"
+    },
+    {
+      "id": "CJFD:MFKJ202012020",
+      "title": "新冠疫情对服装零售业的影响及发展趋势预测",
+      "authors": "江润恬, 吴艳, 金鹏, 沈雷",
+      "venue": "毛纺科技, (12): 103-107",
+      "year": "2020",
+      "citations": 24,
+      "doi": "10.19333/j.mfkj.20200602605",
+      "cnki_url": "https://kns.cnki.net/kcms2/article/abstract?v=VbOCiUYxpODrqOLS1zeeMb4G6ghy885gQI7f2EoC7AR3jPEyzQQwcfaJIVZXvAehSwIxo_Hy31d7SoEJcvexkb0Z32WpMuHhYfTtZ86Gx17lNp4eb-HiZ2w3X5rOkKhpchTY_3WEDT19r1PVsZHyD5M3JNsUmkwtZYNC4PL9B26W91SPJsC1sv3ophsbrLeHtFUloVRQx31Wg8WIDU6alg==&uniplatform=NZKPT&language=CHS",
+      "publication_type": "期刊"
+    }
+  ],
+  "publication_aliases": [
+    {
+      "titles": [
+        "具有安全防护功能的智能盲人服设计",
+        "Design of smart protective clothing for blind people"
+      ],
+      "doi": "10.13475/j.fzxb.20201104410"
+    },
+    {
+      "titles": [
+        "基于流程模块化的针织衫定制系统设计与实现",
+        "Design and implementation of knitwear customization system based on modular process."
+      ],
+      "doi": "10.19333/j.mfkj.20201001007"
+    },
+    {
+      "titles": [
+        "基于区块链技术的服装可追溯系统设计与实现",
+        "Design and implementation of clothing traceability system based on blockchain technology"
+      ]
+    },
+    {
+      "titles": [
+        "新冠疫情对服装零售业的影响及发展趋势预测",
+        "Influence of the COVID-19 epidemic on clothing retail industry and development trend forecast."
+      ],
+      "doi": "10.19333/j.mfkj.20200602605"
+    },
+    {
+      "titles": [
+        "我国服装行业大规模定制的发展现状与策略分析",
+        "Development status and strategic analysis of mass customization in Chinese apparel industry"
+      ],
+      "doi": "10.16549/j.cnki.issn.1001-2044.2020.06.001"
+    }
+  ]
+}

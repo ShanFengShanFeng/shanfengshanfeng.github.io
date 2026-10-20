@@ -1,3 +1,7 @@
 _site/
 push.sh
 .DS_Store
+__pycache__/
+google_scholar_crawler/results/
+cnki_crawler/results/
+tmp/
