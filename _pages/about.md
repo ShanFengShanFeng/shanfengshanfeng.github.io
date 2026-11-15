@@ -21,7 +21,7 @@ I received both my bachelor’s and master’s degrees in Fashion Design and Eng
 - 👕 Smart Wearable Technology
 - 🌍 Application of Generative AI in fashion
 
-You can reach me at 📧 **925212692@qq.com** or **nlxxnlgz1@gmail.com**.
+You can reach me at 📧 **925212692@qq.com** or **jinpeng1@nbu.edu.cn**.
 
 <div class="citation-badges" aria-label="Citations by database">
   <a class="citation-badge" href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer">
