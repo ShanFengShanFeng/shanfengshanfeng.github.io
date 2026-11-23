@@ -1,1 +1,3 @@
 scholarly==1.7.11
+# scholarly imports bibtexparser.bibdatabase from the 1.x API.
+bibtexparser>=1.4.4,<2
