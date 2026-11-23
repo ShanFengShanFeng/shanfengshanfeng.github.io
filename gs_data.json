@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-07T14:04:04.081803+00:00",
+  "updated_at": "2026-11-23T08:25:22.454532+00:00",
   "author_id": "lJydfDEAAAAJ",
   "name": "Peng Jin",
-  "affiliation": "Donghua University, NUS, SMU",
-  "citedby": 88,
-  "citedby5y": 88,
-  "hindex": 4,
-  "hindex5y": 4,
+  "affiliation": "Ningbo University, DHU, NUS, SMU",
+  "citedby": 97,
+  "citedby5y": 97,
+  "hindex": 5,
+  "hindex5y": 5,
   "i10index": 2,
   "i10index5y": 2,
   "publications": [
@@ -26,7 +26,7 @@
       "authors": "",
       "venue": "IEEE Sensors Journal, 2025",
       "year": "2025",
-      "citations": 3,
+      "citations": 6,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AWF5omc3nYNoC"
     },
     {
@@ -35,7 +35,7 @@
       "authors": "",
       "venue": "AUTEX Research Journal 24 (1), 20230025, 2024",
       "year": "2024",
-      "citations": 4,
+      "citations": 7,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3A9yKSN-GCB0IC"
     },
     {
@@ -62,7 +62,7 @@
       "authors": "",
       "venue": "Sustainability 15 (2), 1268, 2023",
       "year": "2023",
-      "citations": 37,
+      "citations": 39,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3A2osOgNQ5qMEC"
     },
     {
@@ -107,7 +107,7 @@
       "authors": "",
       "venue": "Wool Textile Journal 49 (6), 63, 2021",
       "year": "2021",
-      "citations": 3,
+      "citations": 4,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AroLk4NBRz8UC"
     },
     {
