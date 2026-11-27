@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-25T18:30:18.027074+00:00",
+  "updated_at": "2026-11-27T17:55:11.293608+00:00",
   "author_id": "lJydfDEAAAAJ",
   "name": "Peng Jin",
   "affiliation": "Ningbo University, DHU, NUS, SMU",
-  "citedby": 97,
-  "citedby5y": 97,
+  "citedby": 96,
+  "citedby5y": 96,
   "hindex": 5,
   "hindex5y": 5,
   "i10index": 2,
@@ -26,7 +26,7 @@
       "authors": "",
       "venue": "IEEE Sensors Journal, 2025",
       "year": "2025",
-      "citations": 6,
+      "citations": 5,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lJydfDEAAAAJ&citation_for_view=lJydfDEAAAAJ%3AWF5omc3nYNoC"
     },
     {
